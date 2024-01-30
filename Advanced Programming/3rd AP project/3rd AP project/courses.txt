@@ -1,0 +1,8 @@
+100	Psychology	3	5
+101	philosophy	1	10
+102	physical Edu	1	4
+103	Advanced Programming	4	3
+104	Data Structure	3	5
+105	physics 2	2	3
+106	History	4	3
+107	physics 1	2	4
